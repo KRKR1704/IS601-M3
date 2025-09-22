@@ -1,5 +1,18 @@
 # 📦 Project Setup
 Improved calculator, which uses oop concepts.
+
+---
+
+# 📖 Documentation
+
+## Overview
+This project is a Python-based **Command-Line Calculator** built with OOP principles and a REPL (Read–Eval–Print Loop) interface.  
+It includes:
+- Arithmetic operations (add, subtract, multiply, divide)
+- Input validation and error handling (e.g., invalid inputs, division by zero)
+- Unit & parameterized tests with `pytest`
+- Continuous Integration via GitHub Actions with enforced 100% coverage
+
 ---
 
 # 🧩 1. Install and Configure Git
