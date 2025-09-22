@@ -129,7 +129,7 @@ pip install -r requirements.txt
 
 ---
 
-# 🚀 3. Running the Project
+# 🚀 4. Running the Project
 
 ```bash
 python main.py
@@ -137,7 +137,7 @@ python main.py
 
 ---
 
-# 📝 4. GitHub Uploading Instructions
+# 📝 5. GitHub Uploading Instructions
 
 After finishing your work:
 
